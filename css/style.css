@@ -3,4 +3,12 @@
 body {
     background-color: #DAF7F6;
     color: #3B3B3B;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+header {
+    background-color: #FFFFFF;
+    text-align: center;
 }
