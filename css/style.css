@@ -37,13 +37,28 @@ main {
 .image {
     float: left;
     width: 450px;
-    height: 500px;
+    height: 550px;
 }
 
 .recipe {
     float: left;
     padding-left: 20px;
-    width: 450px;
+    width: 500px;
     height: 550px;
     background-color: #FFFFFF;
+}
+
+#cookies .image {
+    background-image: url(../img/gluten-free-sugar-cookies.jpg);
+    background-size: cover;
+}
+
+#pesto .image {
+    background-image: url(../img/nut-free-pesto.jpg);
+    background-size: cover;
+}
+
+#salad .image {
+    background-image: url(../img/watermelon-salad.jpg);
+    background-size: cover;
 }
