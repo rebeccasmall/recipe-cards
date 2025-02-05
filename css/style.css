@@ -23,3 +23,27 @@ header h1 {
     text-transform: uppercase;
     padding-left: 15px;
 }
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.card {
+    margin: 20px 0;
+    overflow: auto;
+}
+
+.image {
+    float: left;
+    width: 450px;
+    height: 500px;
+}
+
+.recipe {
+    float: left;
+    padding-left: 20px;
+    width: 450px;
+    height: 550px;
+    background-color: #FFFFFF;
+}
