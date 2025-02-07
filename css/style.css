@@ -67,5 +67,35 @@ main {
     color: #F16059;
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    line-height: 29px;
     margin: 0 auto; 
+}
+
+.time { 
+    margin-bottom: 5px;
+    border: 2px solid #3B3B3B;
+    overflow: auto;
+    text-transform: uppercase;
+}
+
+.time .prep {
+    float: left;
+    padding-left: 6px;
+    width: 33.3333%;
+    box-sizing: border-box;
+}
+
+.time .cook {
+    float: left;
+    padding-left: 6px;
+    width: 33.3333%;
+    box-sizing: border-box;
+}
+
+.time .total {
+    float: left;
+    padding-left: 6px;
+    width: 33.3333%;
+    box-sizing: border-box;
 }
