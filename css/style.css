@@ -64,5 +64,8 @@ main {
 }
 
 .recipe h2 {
-    
+    color: #F16059;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto; 
 }
