@@ -70,6 +70,7 @@ main {
     text-transform: uppercase;
     line-height: 29px;
     margin: 0 auto; 
+    padding: 20px 0;
 }
 
 .time { 
@@ -77,6 +78,7 @@ main {
     border: 2px solid #3B3B3B;
     overflow: auto;
     text-transform: uppercase;
+    margin-right: 20px;
 }
 
 .time .prep {
@@ -115,4 +117,25 @@ main {
 
 .time strong {
     font-family: 'Montserrat', sans-serif;
+}
+
+.columns {
+    overflow: auto;
+}
+
+.directions {
+    float: left;
+    width: 240px;
+}
+
+.ingredients {
+    float: left;
+    width: 205px;
+    margin-right: 20px;
+}
+
+.recipe h3 {
+    padding: 10px;
+    border-top: 2px solid #3B3B3B;
+    border-bottom: 2px solid #3B3B3B;
 }
