@@ -91,6 +91,8 @@ main {
     padding-left: 6px;
     width: 33.3333%;
     box-sizing: border-box;
+    border-left: 2px solid #3B3B3B;
+    border-right: 2px solid #3B3B3B;
 }
 
 .time .total {
@@ -98,4 +100,19 @@ main {
     padding-left: 6px;
     width: 33.3333%;
     box-sizing: border-box;
+}
+
+.time img {
+    width: 15px;
+    height: auto;
+    margin-right: 5px;
+    vertical-align: middle; 
+}
+
+.time-details {
+    display: inline-block;
+}
+
+.time strong {
+    font-family: 'Montserrat', sans-serif;
 }
