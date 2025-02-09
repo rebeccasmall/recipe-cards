@@ -138,4 +138,19 @@ main {
     padding: 10px;
     border-top: 2px solid #3B3B3B;
     border-bottom: 2px solid #3B3B3B;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #F16059;
+    text-transform: uppercase;
+}
+
+.ingredients ul {
+    padding-left: 20px;
+    line-height: 24px;
+    list-style-type: square;
+}
+
+.directions ol {
+    padding-left: 20px;
+    line-height: 20px;
 }
